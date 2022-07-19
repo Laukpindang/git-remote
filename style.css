@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+}
+
+.header{
+    background-image: linear-gradient(red, green, blue);
+}
+
+.main{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: wheat;
+}
+
+.footer{
+    background-color: rgb(238, 171, 70);
+    font-weight: bold;
+}
